@@ -1,0 +1,1 @@
+web: gunicron disquaire_project.wsgi
