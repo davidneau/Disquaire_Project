@@ -32,7 +32,7 @@ if os.environ.get('ENV') == 'PRODUCTION':
 else:
     DEBUG = True
 
-ALLOWED_HOSTS = ['disquaire_maquette.herokuapp.com']
+ALLOWED_HOSTS = ['disquairedn.herokuapp.com']
 
 
 # Application definition
